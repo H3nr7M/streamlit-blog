@@ -1,0 +1,13 @@
+# Carpeta de entorno virtual de Python (por ejemplo, venv, env)
+venv/
+env/
+
+enviroment.yml
+
+# Archivos de caché o compilados
+*.pyc
+__pycache__/
+
+# Archivos de registro o salida
+logs/
+*.log
